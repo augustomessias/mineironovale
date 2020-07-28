@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on Conduent as a Bilingual Customer Service Assistant<br>
-🌱 Learning CiberSecurity at Digital House Brasil & FATEC Santana de Parnaiba<br>
+🌱 Learning CiberSecurity<br>
 👯 Looking to collaborate on startup and enterprise security roles<br>
 🤔 Looking for help with pentest and security certifications<br>
 💬 Ask me about how can we work together<br>
