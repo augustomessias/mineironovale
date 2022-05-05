@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently looking for a Wed Development Junior position<br>
+🔭 I’m currently looking for a Wed Development Junior position (Full Stack)<br>
 🎓 Studying Software Engineering at 42 São Paulo & Web Development at Oracle/Alura<br>
 🤠 Nickname: Gu<br>
 👽 Fun fact: I was born in Varginha, Brazil (but I'm not a UFO)<br>
