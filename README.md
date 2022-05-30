@@ -8,11 +8,7 @@
 <p>Um mineiro viajante. Apaixonado por tecnologia e astronomia<br>
 Atualmente desenvolvo em NodeJS através do programa Potência Tech do iFood/Digital House</p>
 
-<div style="display: "flex" ">
-  <a href="https://github.com/mineironovale">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mineironovale&show_icons=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mineironovale&layout=compact"/>
-</div>
+
 
  <p align="left">
   <a href="https://www.linkedin.com/in/augustomessias/" target="_blank" alt="LinkedIn">
@@ -24,8 +20,8 @@ Atualmente desenvolvo em NodeJS através do programa Potência Tech do iFood/Dig
  
 </p>  
 
-
-🔭 I’m currently looking for a Web Development Junior position (Full Stack/NodeJS)<br>
-🤠 Nickname: Gu<br>
-👽 Fun fact: I was born in Varginha, Brazil (but I'm not a UFO)<br>
-🏀 Basketball fan #gowarriors 🟡🔵<br>
+<div style="display: "flex" ">
+  <a href="https://github.com/mineironovale">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mineironovale&show_icons=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mineironovale&layout=compact"/>
+</div>
