@@ -1,12 +1,14 @@
 ### Olá 👋
-## Sou o Augusto (ou Mineiro no Vale, como preferir) <img src="https://komarev.com/ghpvc/?username=mineironovale&color=blueviolet&label=Visualizações+do+perfil&style=flat-square" align="right"/>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Victor Souza">
+## Sou o Augusto (ou Mineiro no Vale, como preferir)
+<img src="https://komarev.com/ghpvc/?username=mineironovale&color=blueviolet&label=Visualizações+do+perfil&style=flat-square" align="right"/>
+<img src="https://www.codewars.com/users/mineironovale/badges/small" align="right"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 <p>Um mineiro viajante. Apaixonado por tecnologia e astronomia<br>
 Atualmente desenvolvo em NodeJS através do programa Potência Tech do iFood/Digital House</p>
 
 <div style="display: "flex" ">
-  <a href="https://github.com/victorsouza19">
+  <a href="https://github.com/mineironovale">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mineironovale&show_icons=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mineironovale&layout=compact"/>
 </div>
