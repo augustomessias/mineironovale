@@ -6,7 +6,7 @@
  -->
 <br><br>
 <p>Um mineiro viajante. Apaixonado por tecnologia e astronomia<br>
-Atualmente desenvolvo em NodeJS através do programa Potência Tech do iFood/Digital House</p>
+Atualmente desenvolvo para BackEnd em Node.js</p>
 
 
 
