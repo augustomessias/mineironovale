@@ -1,12 +1,12 @@
-### Olá 👋
-## Sou o Augusto (ou Mineiro no Vale, como preferir)
+## Augusto Messias @mineironovale 👽
 <img src="https://komarev.com/ghpvc/?username=mineironovale&color=blueviolet&label=Visualizações+do+perfil&style=flat-square" align="left"/>
 <img src="https://www.codewars.com/users/mineironovale/badges/small" align="left"/>
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
  -->
 <br><br>
-<p>Um mineiro viajante. Apaixonado por tecnologia e empreendedorismo<br>
-Atualmente desenvolvo para BackEnd em Node.js</p>
+<p>🖥️ Software Engineer, Backend Node.js Developer<br>
+🎓 Cadet at 42 London (42london.com)<br>
+🇬🇧 London, England, United Kingdom </p>
 
 
 
