@@ -1,4 +1,4 @@
-## Augusto Messias @mineironovale 👽
+## Augusto Messias
 <img src="https://komarev.com/ghpvc/?username=mineironovale&color=blueviolet&label=Visualizações+do+perfil&style=flat-square" align="left"/>
 <img src="https://www.codewars.com/users/mineironovale/badges/small" align="left"/>
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
