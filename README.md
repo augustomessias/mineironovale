@@ -12,10 +12,10 @@
 
  <p align="left">
   <a href="https://www.linkedin.com/in/augustomessias/" target="_blank" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=8a2be2"/>
   </a>
  <a href="mailto:augustomessias@pm.me" target="_blank" alt="Email">
-    <img src="https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=8A2BE2"/>
+    <img src="https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=8a2be2"/>
   </a>
  
 </p>  
