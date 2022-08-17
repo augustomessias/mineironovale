@@ -4,9 +4,7 @@
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
  -->
 <br><br>
-<p>🖥️ Software Engineer, Backend & Blockchain Developer<br>
-🎓 Cadet at 42 London (42london.com)<br>
-🇬🇧 London, England, United Kingdom </p>
+<p>🖥️ Software Engineer, Backend Developer<br>
 
 
 
